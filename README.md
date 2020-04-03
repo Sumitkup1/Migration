@@ -13,4 +13,4 @@ In some cases, you may observe network connectivity issue with Windows Server 20
 1.	You are not able to ping, RDP or telnet on any port to the migrated virtual machine within /or across subnet. 
 2.	You will see ‘Welcome to Windows’ screen in the ‘Boot diagnostics’ feature in Azure platform. 
 
-Refer to the attached document to resolve this issue in Azure.
+Refer to the attached W2K3_Networking_Issue.docx document to resolve this issue in Azure.
